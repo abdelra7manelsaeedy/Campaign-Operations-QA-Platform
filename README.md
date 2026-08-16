@@ -614,7 +614,3 @@ The platform is continuously evolving with additional campaign management, autom
 # Author
 
 **Abd El Rahman Elsaeedy**
-
-Backend Developer
-
-[GitHub](https://github.com/abdelra7manelsaeedy)
