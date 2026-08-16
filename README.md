@@ -38,6 +38,60 @@ Instead of building a separate workflow for every campaign, administrators can c
 
 ---
 
+---
+
+# Screenshots
+
+The following screenshots demonstrate the main workflows and interfaces of the platform.
+
+## Authentication
+
+### Login
+
+![Login](./Screen%20Shoot/01-Login.png)
+
+---
+
+## Agent Workspace
+
+### Agent Dashboard
+
+![Agent Dashboard](./Screen%20Shoot/02-Agent%20Dashboard.png)
+
+### Agent Work Queue
+
+![Agent Work Queue](./Screen%20Shoot/03-Agent%20Work%20Queue.png)
+
+---
+
+## Administration
+
+### Admin Dashboard
+
+![Admin Dashboard](./Screen%20Shoot/04-Admin%20Dashboard.png)
+
+### Batches Management
+
+![Batches](./Screen%20Shoot/05-Batches.png)
+
+### Evaluation Forms
+
+![Forms](./Screen%20Shoot/06-Forms.png)
+
+### Call Results
+
+![Call Results](./Screen%20Shoot/07-Call%20Results.png)
+
+### Daily Targets
+
+![Daily Targets](./Screen%20Shoot/08-Daily%20Targets.png)
+
+### Calls Management
+
+![Calls](./Screen%20Shoot/09-Calls.png)
+
+---
+
 # Core Architecture
 
 The platform is built around a **Campaign-Based Operational Architecture**.
